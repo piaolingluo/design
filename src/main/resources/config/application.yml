@@ -1,0 +1,10 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: design
+
+# 百度api配置
+baidu:
+  app-id:
+  security-key:
